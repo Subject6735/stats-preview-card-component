@@ -20,20 +20,10 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
-
-Desktop:
-
-![](solution/solution_desktop.png)
-
-Mobile:
-
-![](solution/solution_mobile.png)
-
 ### Links
 
-- Repository URL: [https://github.com/Subject6735/stats-preview-card-component](https://github.com/Subject6735/stats-preview-card-component)
-- Live Site URL: [ https://subject6735.github.io/stats-preview-card-component/](https://subject6735.github.io/stats-preview-card-component/)
+- [GitHub Repository](https://github.com/Subject6735/stats-preview-card-component)
+- [Live Site](https://subject6735.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -41,7 +31,7 @@ Mobile:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 
 ## Author
 
